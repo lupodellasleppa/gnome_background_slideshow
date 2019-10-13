@@ -1,0 +1,8 @@
+{
+  "backgrounds_dir": ".local/share/backgrounds/",
+  "conf_file": "slideshow.xml",
+  "duration": 300,
+  "transition": 5
+
+
+}
